@@ -289,3 +289,10 @@ table.imgtable {
 table.imgtable td {
 	border: currentColor; border-image: none; text-align: left;
 }
+
+.award {
+	line-height: 1.0em;
+	height: 1.0em;
+	vertical-align: middle;
+	margin-bottom: 0.25em;
+}
